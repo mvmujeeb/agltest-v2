@@ -7,8 +7,9 @@ New features:
 3 - init.js has been changed to modular pattern design.
 4 - Written four tests, to run the tests run the index-spec.html(https://github.com/mvmujeeb/agltest-v2/blob/master/index-specs.html) and the tests are placed in the init-spec.js(https://github.com/mvmujeeb/agltest-v2/blob/master/init-specs.js)
 
-Dependancy: jquery 
-Test Dependancy: jquery, Jasmin (jasmine.js, jasmine-html.js, boot.js and jasmine.css)
+Dependancy: jquery
+
+Test Dependancies: jquery, Jasmin (jasmine.js, jasmine-html.js, boot.js and jasmine.css)
 
 Technologies/Libraries Used: jquery,  JavaScript and Jasmine(for testing)
 
