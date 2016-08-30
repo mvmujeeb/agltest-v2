@@ -3,9 +3,13 @@
 New features:
 
 1 - Test specs added
+
 2 - Moved all dippendancies to local(CDN takes time to load)
+
 3 - init.js has been changed to modular pattern design.
+
 4 - Written four tests, to run the tests run the index-spec.html(https://github.com/mvmujeeb/agltest-v2/blob/master/index-specs.html) and the tests are placed in the init-spec.js(https://github.com/mvmujeeb/agltest-v2/blob/master/init-specs.js)
+
 
 Dependancy: jquery
 
