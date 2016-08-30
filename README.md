@@ -1,10 +1,11 @@
 # AGL Test
 
 New features:
+
 1 - Test specs added
 2 - Moved all dippendancies to local(CDN takes time to load)
-3 - init.js has been changed to modular pattern design to access each method from test specs
-4 - Written four tests, to run the tests run the index-spec.html and the tests are placed in the init-spec.js
+3 - init.js has been changed to modular pattern design.
+4 - Written four tests, to run the tests run the index-spec.html(https://github.com/mvmujeeb/agltest-v2/blob/master/index-specs.html) and the tests are placed in the init-spec.js(https://github.com/mvmujeeb/agltest-v2/blob/master/init-specs.js)
 
 Dependancy: jquery 
 Test Dependancy: jquery, Jasmin (jasmine.js, jasmine-html.js, boot.js and jasmine.css)
@@ -12,7 +13,8 @@ Test Dependancy: jquery, Jasmin (jasmine.js, jasmine-html.js, boot.js and jasmin
 Technologies/Libraries Used: jquery,  JavaScript and Jasmine(for testing)
 
 Since this is a simple application I did not used any JavaScript frameworks like angular, Backbone, etc. As I discussed in the meeting I am very passionate about the pure JavaScript here I am following conventional HTML, JavaScript and for the REST integration I used jQuery.
-I also did not used any test runner like Karma.js because only one javascript file is to be tested and  I opted conventional jasmine methods.
+
+I also did not used any test runner like Karma.js because only one javascript file is to be tested. 
 
 AGL service mentioned in the instruction is in different domain so there will be cross domain error in the REST call.
 
